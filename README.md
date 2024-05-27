@@ -26,3 +26,8 @@ The project follows a standard folder structure to keep the code organized and m
 ### Development Setup
 
 git clone the repository on your local computer and to set up the project on your local machine for development, write npm install or yarn. Once set up, you can start the development server using `npm run dev or yarn dev` and access the application in your browser.
+
+### Deployed web link
+
+https://pokemon-app-one-blond.vercel.app/
+it is deployed using vercel free hosting web service
